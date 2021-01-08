@@ -7,3 +7,8 @@ https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB
 
 OLED Breakout is liscensed under the Creative Commons Attribution-ShareAlike 3.0 International License. To view a
 copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.
+
+
+
+
+![OLED Breakout](https://github.com/sammy-jaber/OLED-Breakout/blob/main/Front%20PCB.png)
