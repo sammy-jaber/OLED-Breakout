@@ -1,5 +1,5 @@
 # OLED-Breakout
-1.5" Colour OLED Breakout Board using the SSD1351 driver. It is designed to fit inro a 52mm (standard size) gauge.
+1.5" Colour OLED Breakout Board using the SSD1351 driver. It is designed to fit into a 52mm (standard size) gauge.
 
 Based on Adafruit 1.5" Color OLED display breakout board
 
