@@ -12,3 +12,5 @@ copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.
 
 
 ![OLED Breakout](https://github.com/sammy-jaber/OLED-Breakout/blob/main/board.png)
+
+![OLED Breakout](https://github.com/sammy-jaber/OLED-Breakout/blob/main/PCB.png)
